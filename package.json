@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "jasmine": "^5.1.0",
-    "husky": "^8.0.0"
+    "husky": "^9.0.5"
   }
 }
